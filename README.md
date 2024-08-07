@@ -63,4 +63,4 @@ We tested Dask with 5 partitions and compared its performance with NumPy. Despit
 
 - **`Global Terrorism Report.pdf`**: A detailed report on the analysis and findings.
 - **`Global Terrorism.ipynb`**: Jupyter Notebook containing the code for data processing, analysis, and visualization.
-- **`globalterrorism-cleaned.csv`**: Cleaned dataset ready for analysis.
+- **`globalterrorism-cleaned.rar`**: Compressed file containing the cleaned dataset.
